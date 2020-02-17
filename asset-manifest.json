@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/water-Q/static/css/main.33aa24b8.chunk.css",
+    "main.js": "/water-Q/static/js/main.5c8cbaa3.chunk.js",
+    "main.js.map": "/water-Q/static/js/main.5c8cbaa3.chunk.js.map",
+    "runtime-main.js": "/water-Q/static/js/runtime-main.709bcaa6.js",
+    "runtime-main.js.map": "/water-Q/static/js/runtime-main.709bcaa6.js.map",
+    "static/js/2.18e8d942.chunk.js": "/water-Q/static/js/2.18e8d942.chunk.js",
+    "static/js/2.18e8d942.chunk.js.map": "/water-Q/static/js/2.18e8d942.chunk.js.map",
+    "index.html": "/water-Q/index.html",
+    "precache-manifest.46b9df087849ad61091f2c5cb81aa41e.js": "/water-Q/precache-manifest.46b9df087849ad61091f2c5cb81aa41e.js",
+    "service-worker.js": "/water-Q/service-worker.js",
+    "static/css/main.33aa24b8.chunk.css.map": "/water-Q/static/css/main.33aa24b8.chunk.css.map",
+    "static/js/2.18e8d942.chunk.js.LICENSE.txt": "/water-Q/static/js/2.18e8d942.chunk.js.LICENSE.txt",
+    "static/media/jernih.png": "/water-Q/static/media/jernih.1e9b8f1b.png",
+    "static/media/App.css": "/water-Q/static/media/kotor.d9dabec6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.709bcaa6.js",
+    "static/js/2.18e8d942.chunk.js",
+    "static/css/main.33aa24b8.chunk.css",
+    "static/js/main.5c8cbaa3.chunk.js"
+  ]
+}
